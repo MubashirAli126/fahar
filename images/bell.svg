@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47.142" height="43.92" viewBox="0 0 47.142 43.92">
+  <defs>
+    <filter id="Ellipse_11" x="7.176" y="0" width="39.965" height="39.965" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1733" data-name="Group 1733" transform="translate(-1123.858 -109)">
+    <g id="noun_notification_1440375_1_" data-name="noun_notification_1440375 (1)" transform="translate(1110.258 112.96)">
+      <g id="Group" transform="translate(13.6 8.6)">
+        <path id="Compound_Path" data-name="Compound Path" d="M41.2,33.6h-1.15l-.345-.728a11.578,11.578,0,0,1-1.15-4.945V23.129A10.734,10.734,0,0,0,31.925,13.2v-.537a4.064,4.064,0,1,0-8.127,0V13.2a10.734,10.734,0,0,0-6.671,9.929v4.792a11.578,11.578,0,0,1-1.112,4.945l-.345.728H13.6v1.533H24.1v1.38a3.834,3.834,0,0,0,7.629,0v-1.38H41.2ZM25.331,12.664a2.549,2.549,0,0,1,5.1,0h0a10.658,10.658,0,0,0-5.06,0ZM17.4,33.519a13.111,13.111,0,0,0,1.265-5.6V23.129a9.2,9.2,0,0,1,18.363,0v4.792a13.111,13.111,0,0,0,1.265,5.6V33.6H17.357Zm12.843,2.99a2.3,2.3,0,0,1-4.562,0v-1.38h4.562Z" transform="translate(-13.6 -8.6)" fill="#505050"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1123.86, 109)" filter="url(#Ellipse_11)">
+      <ellipse id="Ellipse_11-2" data-name="Ellipse 11" cx="10.983" cy="10.983" rx="10.983" ry="10.983" transform="translate(16.18 6)" fill="#fff"/>
+    </g>
+    <text id="_7" data-name="7" transform="translate(1148.735 129.092)" fill="#505050" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">7</tspan></text>
+  </g>
+</svg>
